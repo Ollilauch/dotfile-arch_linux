@@ -1,0 +1,26 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,4,30,18,40,0.99
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+DP-4 HDMI-0 Height 1680x1050=616
+DP-4 HDMI-0 Width 1680x1050=438
+
+[MainWindow]
+DP-4 HDMI-0 Height 1680x1050=1030
+DP-4 HDMI-0 Height 1920x1080=566
+DP-4 HDMI-0 Width 1680x1050=1660
+DP-4 HDMI-0 Width 1920x1080=1030
+DP-4 HDMI-0 XPosition 1680x1050=2765
+DP-4 HDMI-0 XPosition 1920x1080=589
+DP-4 HDMI-0 YPosition 1680x1050=10
+DP-4 HDMI-0 YPosition 1920x1080=196
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Search]
+Location=Everywhere
