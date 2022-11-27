@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-json": ">=1.7.0",
+    "coc-tsserver": ">=2.0.5",
+    "coc-clangd": ">=0.27.0",
+    "coc-zig": ">=0.6.1"
+  }
+}
